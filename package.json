@@ -1,0 +1,27 @@
+{
+  "name": "cc-webmcp",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-delegated shopping sample: llms.txt + WebMCP on GitHub Pages",
+  "scripts": {
+    "dev": "vite build --watch",
+    "build": "vite build && tsx scripts/build-content.ts",
+    "validate": "tsx scripts/validate-artifacts.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "e2e": "playwright test",
+    "serve": "node scripts/serve-dist.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}

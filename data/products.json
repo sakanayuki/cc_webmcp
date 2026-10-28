@@ -1,0 +1,684 @@
+[
+  {
+    "id": "aurora-anc-pro",
+    "name": "Aurora ANC Pro",
+    "brand": "Aurora Labs",
+    "category": "true-wireless",
+    "priceJpy": 29800,
+    "stock": 14,
+    "specs": {
+      "batteryHours": 8,
+      "caseBatteryHours": 24,
+      "weightG": 5.4,
+      "anc": true,
+      "waterproof": "IPX4",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ],
+      "bluetooth": "5.4",
+      "multipoint": true
+    },
+    "tags": [
+      "commute",
+      "work-calls"
+    ],
+    "summary": "完全ワイヤレス。ノイズキャンセリング搭載、再生8時間、29,800円。通勤・通学・オンライン会議向け。",
+    "description": "Aurora ANC Proは架空ブランドAurora Labsの完全ワイヤレスイヤホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大8時間再生、ケース併用で合計32時間。重さは5.4g、防水性能はIPX4です。対応コーデックはSBC、AAC、LDAC、Bluetooth 5.4。マルチポイント接続は対応です。おすすめ用途: 通勤・通学・オンライン会議。",
+    "rating": 4.6
+  },
+  {
+    "id": "aurora-lite",
+    "name": "Aurora Lite",
+    "brand": "Aurora Labs",
+    "category": "true-wireless",
+    "priceJpy": 8980,
+    "stock": 60,
+    "specs": {
+      "batteryHours": 6,
+      "caseBatteryHours": 18,
+      "weightG": 4.2,
+      "anc": false,
+      "waterproof": "IPX4",
+      "codecs": [
+        "SBC",
+        "AAC"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": false
+    },
+    "tags": [
+      "budget",
+      "daily"
+    ],
+    "summary": "完全ワイヤレス。ノイズキャンセリングなし、再生6時間、8,980円。コスパ重視・普段使い向け。",
+    "description": "Aurora Liteは架空ブランドAurora Labsの完全ワイヤレスイヤホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大6時間再生、ケース併用で合計24時間。重さは4.2g、防水性能はIPX4です。対応コーデックはSBC、AAC、Bluetooth 5.3。マルチポイント接続は非対応です。おすすめ用途: コスパ重視・普段使い。",
+    "rating": 3.9
+  },
+  {
+    "id": "aurora-air",
+    "name": "Aurora Air",
+    "brand": "Aurora Labs",
+    "category": "true-wireless",
+    "priceJpy": 16800,
+    "stock": 25,
+    "specs": {
+      "batteryHours": 7,
+      "caseBatteryHours": 21,
+      "weightG": 4,
+      "anc": true,
+      "waterproof": "IPX4",
+      "codecs": [
+        "SBC",
+        "AAC"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": true
+    },
+    "tags": [
+      "commute",
+      "light"
+    ],
+    "summary": "完全ワイヤレス。ノイズキャンセリング搭載、再生7時間、16,800円。通勤・通学・軽量向け。",
+    "description": "Aurora Airは架空ブランドAurora Labsの完全ワイヤレスイヤホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大7時間再生、ケース併用で合計28時間。重さは4g、防水性能はIPX4です。対応コーデックはSBC、AAC、Bluetooth 5.3。マルチポイント接続は対応です。おすすめ用途: 通勤・通学・軽量。",
+    "rating": 4.2
+  },
+  {
+    "id": "aurora-studio",
+    "name": "Aurora Studio",
+    "brand": "Aurora Labs",
+    "category": "true-wireless",
+    "priceJpy": 45800,
+    "stock": 6,
+    "specs": {
+      "batteryHours": 9,
+      "caseBatteryHours": 30,
+      "weightG": 5.8,
+      "anc": true,
+      "waterproof": "IPX4",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "LDAC",
+        "LC3"
+      ],
+      "bluetooth": "5.4",
+      "multipoint": true
+    },
+    "tags": [
+      "premium",
+      "music",
+      "work-calls"
+    ],
+    "summary": "完全ワイヤレス。ノイズキャンセリング搭載、再生9時間、45,800円。ハイエンド・音楽鑑賞・オンライン会議向け。",
+    "description": "Aurora Studioは架空ブランドAurora Labsの完全ワイヤレスイヤホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大9時間再生、ケース併用で合計39時間。重さは5.8g、防水性能はIPX4です。対応コーデックはSBC、AAC、LDAC、LC3、Bluetooth 5.4。マルチポイント接続は対応です。おすすめ用途: ハイエンド・音楽鑑賞・オンライン会議。",
+    "rating": 4.8
+  },
+  {
+    "id": "kumo-pod",
+    "name": "Kumo Pod",
+    "brand": "Kumo Sound",
+    "category": "true-wireless",
+    "priceJpy": 12800,
+    "stock": 40,
+    "specs": {
+      "batteryHours": 6,
+      "caseBatteryHours": 24,
+      "weightG": 4.6,
+      "anc": false,
+      "waterproof": "IPX5",
+      "codecs": [
+        "SBC",
+        "AAC"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": false
+    },
+    "tags": [
+      "daily",
+      "budget"
+    ],
+    "summary": "完全ワイヤレス。ノイズキャンセリングなし、再生6時間、12,800円。普段使い・コスパ重視向け。",
+    "description": "Kumo Podは架空ブランドKumo Soundの完全ワイヤレスイヤホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大6時間再生、ケース併用で合計30時間。重さは4.6g、防水性能はIPX5です。対応コーデックはSBC、AAC、Bluetooth 5.3。マルチポイント接続は非対応です。おすすめ用途: 普段使い・コスパ重視。",
+    "rating": 4
+  },
+  {
+    "id": "kumo-pod-anc",
+    "name": "Kumo Pod ANC",
+    "brand": "Kumo Sound",
+    "category": "true-wireless",
+    "priceJpy": 22800,
+    "stock": 18,
+    "specs": {
+      "batteryHours": 7,
+      "caseBatteryHours": 28,
+      "weightG": 5.1,
+      "anc": true,
+      "waterproof": "IPX5",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "aptX"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": true
+    },
+    "tags": [
+      "commute",
+      "work-calls"
+    ],
+    "summary": "完全ワイヤレス。ノイズキャンセリング搭載、再生7時間、22,800円。通勤・通学・オンライン会議向け。",
+    "description": "Kumo Pod ANCは架空ブランドKumo Soundの完全ワイヤレスイヤホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大7時間再生、ケース併用で合計35時間。重さは5.1g、防水性能はIPX5です。対応コーデックはSBC、AAC、aptX、Bluetooth 5.3。マルチポイント接続は対応です。おすすめ用途: 通勤・通学・オンライン会議。",
+    "rating": 4.4
+  },
+  {
+    "id": "kumo-mini",
+    "name": "Kumo Mini",
+    "brand": "Kumo Sound",
+    "category": "true-wireless",
+    "priceJpy": 6980,
+    "stock": 80,
+    "specs": {
+      "batteryHours": 5,
+      "caseBatteryHours": 15,
+      "weightG": 3.6,
+      "anc": false,
+      "waterproof": "none",
+      "codecs": [
+        "SBC"
+      ],
+      "bluetooth": "5.2",
+      "multipoint": false
+    },
+    "tags": [
+      "budget",
+      "light"
+    ],
+    "summary": "完全ワイヤレス。ノイズキャンセリングなし、再生5時間、6,980円。コスパ重視・軽量向け。",
+    "description": "Kumo Miniは架空ブランドKumo Soundの完全ワイヤレスイヤホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大5時間再生、ケース併用で合計20時間。重さは3.6g、防水性能はなしです。対応コーデックはSBC、Bluetooth 5.2。マルチポイント接続は非対応です。おすすめ用途: コスパ重視・軽量。",
+    "rating": 3.6
+  },
+  {
+    "id": "nagi-buds",
+    "name": "Nagi Buds",
+    "brand": "Nagi Audio",
+    "category": "true-wireless",
+    "priceJpy": 19800,
+    "stock": 0,
+    "specs": {
+      "batteryHours": 8,
+      "caseBatteryHours": 26,
+      "weightG": 4.8,
+      "anc": true,
+      "waterproof": "IPX4",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "LC3"
+      ],
+      "bluetooth": "5.4",
+      "multipoint": true
+    },
+    "tags": [
+      "commute",
+      "daily"
+    ],
+    "summary": "完全ワイヤレス。ノイズキャンセリング搭載、再生8時間、19,800円。通勤・通学・普段使い向け。",
+    "description": "Nagi Budsは架空ブランドNagi Audioの完全ワイヤレスイヤホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大8時間再生、ケース併用で合計34時間。重さは4.8g、防水性能はIPX4です。対応コーデックはSBC、AAC、LC3、Bluetooth 5.4。マルチポイント接続は対応です。おすすめ用途: 通勤・通学・普段使い。",
+    "rating": 4.3
+  },
+  {
+    "id": "nagi-buds-s",
+    "name": "Nagi Buds S",
+    "brand": "Nagi Audio",
+    "category": "true-wireless",
+    "priceJpy": 34800,
+    "stock": 9,
+    "specs": {
+      "batteryHours": 10,
+      "caseBatteryHours": 32,
+      "weightG": 5.2,
+      "anc": true,
+      "waterproof": "IPX5",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "LDAC",
+        "LC3"
+      ],
+      "bluetooth": "5.4",
+      "multipoint": true
+    },
+    "tags": [
+      "premium",
+      "work-calls",
+      "music"
+    ],
+    "summary": "完全ワイヤレス。ノイズキャンセリング搭載、再生10時間、34,800円。ハイエンド・オンライン会議・音楽鑑賞向け。",
+    "description": "Nagi Buds Sは架空ブランドNagi Audioの完全ワイヤレスイヤホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大10時間再生、ケース併用で合計42時間。重さは5.2g、防水性能はIPX5です。対応コーデックはSBC、AAC、LDAC、LC3、Bluetooth 5.4。マルチポイント接続は対応です。おすすめ用途: ハイエンド・オンライン会議・音楽鑑賞。",
+    "rating": 4.7
+  },
+  {
+    "id": "tsubame-clip",
+    "name": "Tsubame Clip",
+    "brand": "Tsubame",
+    "category": "true-wireless",
+    "priceJpy": 14800,
+    "stock": 22,
+    "specs": {
+      "batteryHours": 7,
+      "caseBatteryHours": 20,
+      "weightG": 6,
+      "anc": false,
+      "waterproof": "IPX4",
+      "codecs": [
+        "SBC",
+        "AAC"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": true
+    },
+    "tags": [
+      "work-calls",
+      "open-ear"
+    ],
+    "summary": "完全ワイヤレス。ノイズキャンセリングなし、再生7時間、14,800円。オンライン会議・開放型向け。",
+    "description": "Tsubame Clipは架空ブランドTsubameの完全ワイヤレスイヤホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大7時間再生、ケース併用で合計27時間。重さは6g、防水性能はIPX4です。対応コーデックはSBC、AAC、Bluetooth 5.3。マルチポイント接続は対応です。おすすめ用途: オンライン会議・開放型。",
+    "rating": 4.1
+  },
+  {
+    "id": "kumo-neck",
+    "name": "Kumo Neck",
+    "brand": "Kumo Sound",
+    "category": "neckband",
+    "priceJpy": 7800,
+    "stock": 35,
+    "specs": {
+      "batteryHours": 18,
+      "weightG": 24,
+      "anc": false,
+      "waterproof": "IPX4",
+      "codecs": [
+        "SBC",
+        "AAC"
+      ],
+      "bluetooth": "5.2",
+      "multipoint": false
+    },
+    "tags": [
+      "budget",
+      "daily"
+    ],
+    "summary": "ネックバンド型。ノイズキャンセリングなし、再生18時間、7,800円。コスパ重視・普段使い向け。",
+    "description": "Kumo Neckは架空ブランドKumo Soundのネックバンド型イヤホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大18時間再生。重さは24g、防水性能はIPX4です。対応コーデックはSBC、AAC、Bluetooth 5.2。マルチポイント接続は非対応です。おすすめ用途: コスパ重視・普段使い。",
+    "rating": 3.8
+  },
+  {
+    "id": "kumo-neck-anc",
+    "name": "Kumo Neck ANC",
+    "brand": "Kumo Sound",
+    "category": "neckband",
+    "priceJpy": 15800,
+    "stock": 16,
+    "specs": {
+      "batteryHours": 24,
+      "weightG": 32,
+      "anc": true,
+      "waterproof": "IPX4",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "aptX"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": true
+    },
+    "tags": [
+      "commute",
+      "long-battery"
+    ],
+    "summary": "ネックバンド型。ノイズキャンセリング搭載、再生24時間、15,800円。通勤・通学・長時間再生向け。",
+    "description": "Kumo Neck ANCは架空ブランドKumo Soundのネックバンド型イヤホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大24時間再生。重さは32g、防水性能はIPX4です。対応コーデックはSBC、AAC、aptX、Bluetooth 5.3。マルチポイント接続は対応です。おすすめ用途: 通勤・通学・長時間再生。",
+    "rating": 4.2
+  },
+  {
+    "id": "nagi-neck",
+    "name": "Nagi Neck",
+    "brand": "Nagi Audio",
+    "category": "neckband",
+    "priceJpy": 11800,
+    "stock": 28,
+    "specs": {
+      "batteryHours": 20,
+      "weightG": 28,
+      "anc": false,
+      "waterproof": "IPX5",
+      "codecs": [
+        "SBC",
+        "AAC"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": true
+    },
+    "tags": [
+      "work-calls",
+      "daily"
+    ],
+    "summary": "ネックバンド型。ノイズキャンセリングなし、再生20時間、11,800円。オンライン会議・普段使い向け。",
+    "description": "Nagi Neckは架空ブランドNagi Audioのネックバンド型イヤホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大20時間再生。重さは28g、防水性能はIPX5です。対応コーデックはSBC、AAC、Bluetooth 5.3。マルチポイント接続は対応です。おすすめ用途: オンライン会議・普段使い。",
+    "rating": 4
+  },
+  {
+    "id": "tsubame-neck-pro",
+    "name": "Tsubame Neck Pro",
+    "brand": "Tsubame",
+    "category": "neckband",
+    "priceJpy": 24800,
+    "stock": 7,
+    "specs": {
+      "batteryHours": 30,
+      "weightG": 38,
+      "anc": true,
+      "waterproof": "IPX5",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ],
+      "bluetooth": "5.4",
+      "multipoint": true
+    },
+    "tags": [
+      "commute",
+      "long-battery",
+      "work-calls"
+    ],
+    "summary": "ネックバンド型。ノイズキャンセリング搭載、再生30時間、24,800円。通勤・通学・長時間再生・オンライン会議向け。",
+    "description": "Tsubame Neck Proは架空ブランドTsubameのネックバンド型イヤホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大30時間再生。重さは38g、防水性能はIPX5です。対応コーデックはSBC、AAC、LDAC、Bluetooth 5.4。マルチポイント接続は対応です。おすすめ用途: 通勤・通学・長時間再生・オンライン会議。",
+    "rating": 4.5
+  },
+  {
+    "id": "aurora-over",
+    "name": "Aurora Over",
+    "brand": "Aurora Labs",
+    "category": "over-ear",
+    "priceJpy": 27800,
+    "stock": 12,
+    "specs": {
+      "batteryHours": 40,
+      "weightG": 260,
+      "anc": true,
+      "waterproof": "none",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": true
+    },
+    "tags": [
+      "commute",
+      "work-calls",
+      "long-battery"
+    ],
+    "summary": "オーバーイヤー型。ノイズキャンセリング搭載、再生40時間、27,800円。通勤・通学・オンライン会議・長時間再生向け。",
+    "description": "Aurora Overは架空ブランドAurora Labsのオーバーイヤー型ヘッドホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大40時間再生。重さは260g、防水性能はなしです。対応コーデックはSBC、AAC、LDAC、Bluetooth 5.3。マルチポイント接続は対応です。おすすめ用途: 通勤・通学・オンライン会議・長時間再生。",
+    "rating": 4.5
+  },
+  {
+    "id": "aurora-over-max",
+    "name": "Aurora Over Max",
+    "brand": "Aurora Labs",
+    "category": "over-ear",
+    "priceJpy": 58000,
+    "stock": 4,
+    "specs": {
+      "batteryHours": 50,
+      "weightG": 285,
+      "anc": true,
+      "waterproof": "none",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "LDAC",
+        "LC3"
+      ],
+      "bluetooth": "5.4",
+      "multipoint": true
+    },
+    "tags": [
+      "premium",
+      "music",
+      "long-battery"
+    ],
+    "summary": "オーバーイヤー型。ノイズキャンセリング搭載、再生50時間、58,000円。ハイエンド・音楽鑑賞・長時間再生向け。",
+    "description": "Aurora Over Maxは架空ブランドAurora Labsのオーバーイヤー型ヘッドホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大50時間再生。重さは285g、防水性能はなしです。対応コーデックはSBC、AAC、LDAC、LC3、Bluetooth 5.4。マルチポイント接続は対応です。おすすめ用途: ハイエンド・音楽鑑賞・長時間再生。",
+    "rating": 4.9
+  },
+  {
+    "id": "kumo-over",
+    "name": "Kumo Over",
+    "brand": "Kumo Sound",
+    "category": "over-ear",
+    "priceJpy": 13800,
+    "stock": 30,
+    "specs": {
+      "batteryHours": 35,
+      "weightG": 235,
+      "anc": false,
+      "waterproof": "none",
+      "codecs": [
+        "SBC",
+        "AAC"
+      ],
+      "bluetooth": "5.2",
+      "multipoint": false
+    },
+    "tags": [
+      "budget",
+      "daily"
+    ],
+    "summary": "オーバーイヤー型。ノイズキャンセリングなし、再生35時間、13,800円。コスパ重視・普段使い向け。",
+    "description": "Kumo Overは架空ブランドKumo Soundのオーバーイヤー型ヘッドホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大35時間再生。重さは235g、防水性能はなしです。対応コーデックはSBC、AAC、Bluetooth 5.2。マルチポイント接続は非対応です。おすすめ用途: コスパ重視・普段使い。",
+    "rating": 3.9
+  },
+  {
+    "id": "kumo-over-anc",
+    "name": "Kumo Over ANC",
+    "brand": "Kumo Sound",
+    "category": "over-ear",
+    "priceJpy": 32800,
+    "stock": 10,
+    "specs": {
+      "batteryHours": 45,
+      "weightG": 270,
+      "anc": true,
+      "waterproof": "none",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "aptX"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": true
+    },
+    "tags": [
+      "commute",
+      "work-calls",
+      "long-battery"
+    ],
+    "summary": "オーバーイヤー型。ノイズキャンセリング搭載、再生45時間、32,800円。通勤・通学・オンライン会議・長時間再生向け。",
+    "description": "Kumo Over ANCは架空ブランドKumo Soundのオーバーイヤー型ヘッドホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大45時間再生。重さは270g、防水性能はなしです。対応コーデックはSBC、AAC、aptX、Bluetooth 5.3。マルチポイント接続は対応です。おすすめ用途: 通勤・通学・オンライン会議・長時間再生。",
+    "rating": 4.6
+  },
+  {
+    "id": "nagi-studio-over",
+    "name": "Nagi Studio Over",
+    "brand": "Nagi Audio",
+    "category": "over-ear",
+    "priceJpy": 39800,
+    "stock": 5,
+    "specs": {
+      "batteryHours": 38,
+      "weightG": 295,
+      "anc": false,
+      "waterproof": "none",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": false
+    },
+    "tags": [
+      "music",
+      "premium"
+    ],
+    "summary": "オーバーイヤー型。ノイズキャンセリングなし、再生38時間、39,800円。音楽鑑賞・ハイエンド向け。",
+    "description": "Nagi Studio Overは架空ブランドNagi Audioのオーバーイヤー型ヘッドホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大38時間再生。重さは295g、防水性能はなしです。対応コーデックはSBC、AAC、LDAC、Bluetooth 5.3。マルチポイント接続は非対応です。おすすめ用途: 音楽鑑賞・ハイエンド。",
+    "rating": 4.7
+  },
+  {
+    "id": "tsubame-home",
+    "name": "Tsubame Home",
+    "brand": "Tsubame",
+    "category": "over-ear",
+    "priceJpy": 9800,
+    "stock": 0,
+    "specs": {
+      "batteryHours": 30,
+      "weightG": 250,
+      "anc": false,
+      "waterproof": "none",
+      "codecs": [
+        "SBC"
+      ],
+      "bluetooth": "5.1",
+      "multipoint": false
+    },
+    "tags": [
+      "budget",
+      "home"
+    ],
+    "summary": "オーバーイヤー型。ノイズキャンセリングなし、再生30時間、9,800円。コスパ重視・自宅向け向け。",
+    "description": "Tsubame Homeは架空ブランドTsubameのオーバーイヤー型ヘッドホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大30時間再生。重さは250g、防水性能はなしです。対応コーデックはSBC、Bluetooth 5.1。マルチポイント接続は非対応です。おすすめ用途: コスパ重視・自宅向け。",
+    "rating": 3.5
+  },
+  {
+    "id": "aurora-sprint",
+    "name": "Aurora Sprint",
+    "brand": "Aurora Labs",
+    "category": "sport",
+    "priceJpy": 13800,
+    "stock": 33,
+    "specs": {
+      "batteryHours": 9,
+      "caseBatteryHours": 27,
+      "weightG": 5,
+      "anc": false,
+      "waterproof": "IPX7",
+      "codecs": [
+        "SBC",
+        "AAC"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": false
+    },
+    "tags": [
+      "gym",
+      "running"
+    ],
+    "summary": "スポーツ向け。ノイズキャンセリングなし、再生9時間、13,800円。ジム・ランニング向け。",
+    "description": "Aurora Sprintは架空ブランドAurora Labsのスポーツ向けイヤホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大9時間再生、ケース併用で合計36時間。重さは5g、防水性能はIPX7です。対応コーデックはSBC、AAC、Bluetooth 5.3。マルチポイント接続は非対応です。おすすめ用途: ジム・ランニング。",
+    "rating": 4.3
+  },
+  {
+    "id": "kumo-run",
+    "name": "Kumo Run",
+    "brand": "Kumo Sound",
+    "category": "sport",
+    "priceJpy": 9800,
+    "stock": 45,
+    "specs": {
+      "batteryHours": 8,
+      "caseBatteryHours": 24,
+      "weightG": 4.4,
+      "anc": false,
+      "waterproof": "IPX5",
+      "codecs": [
+        "SBC",
+        "AAC"
+      ],
+      "bluetooth": "5.2",
+      "multipoint": false
+    },
+    "tags": [
+      "gym",
+      "budget"
+    ],
+    "summary": "スポーツ向け。ノイズキャンセリングなし、再生8時間、9,800円。ジム・コスパ重視向け。",
+    "description": "Kumo Runは架空ブランドKumo Soundのスポーツ向けイヤホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大8時間再生、ケース併用で合計32時間。重さは4.4g、防水性能はIPX5です。対応コーデックはSBC、AAC、Bluetooth 5.2。マルチポイント接続は非対応です。おすすめ用途: ジム・コスパ重視。",
+    "rating": 3.9
+  },
+  {
+    "id": "nagi-sport-anc",
+    "name": "Nagi Sport ANC",
+    "brand": "Nagi Audio",
+    "category": "sport",
+    "priceJpy": 21800,
+    "stock": 11,
+    "specs": {
+      "batteryHours": 8,
+      "caseBatteryHours": 28,
+      "weightG": 5.6,
+      "anc": true,
+      "waterproof": "IPX7",
+      "codecs": [
+        "SBC",
+        "AAC",
+        "LC3"
+      ],
+      "bluetooth": "5.4",
+      "multipoint": true
+    },
+    "tags": [
+      "gym",
+      "running",
+      "commute"
+    ],
+    "summary": "スポーツ向け。ノイズキャンセリング搭載、再生8時間、21,800円。ジム・ランニング・通勤・通学向け。",
+    "description": "Nagi Sport ANCは架空ブランドNagi Audioのスポーツ向けイヤホンです。アクティブノイズキャンセリングで電車や街中の騒音を抑えます。単体で最大8時間再生、ケース併用で合計36時間。重さは5.6g、防水性能はIPX7です。対応コーデックはSBC、AAC、LC3、Bluetooth 5.4。マルチポイント接続は対応です。おすすめ用途: ジム・ランニング・通勤・通学。",
+    "rating": 4.4
+  },
+  {
+    "id": "tsubame-bone",
+    "name": "Tsubame Bone",
+    "brand": "Tsubame",
+    "category": "sport",
+    "priceJpy": 17800,
+    "stock": 19,
+    "specs": {
+      "batteryHours": 10,
+      "weightG": 29,
+      "anc": false,
+      "waterproof": "IPX7",
+      "codecs": [
+        "SBC",
+        "AAC"
+      ],
+      "bluetooth": "5.3",
+      "multipoint": true
+    },
+    "tags": [
+      "running",
+      "open-ear",
+      "cycling"
+    ],
+    "summary": "スポーツ向け。ノイズキャンセリングなし、再生10時間、17,800円。ランニング・開放型・サイクリング向け。",
+    "description": "Tsubame Boneは架空ブランドTsubameのスポーツ向けイヤホンです。ノイズキャンセリングは搭載せず、軽さと価格を優先しています。単体で最大10時間再生。重さは29g、防水性能はIPX7です。対応コーデックはSBC、AAC、Bluetooth 5.3。マルチポイント接続は対応です。おすすめ用途: ランニング・開放型・サイクリング。",
+    "rating": 4.2
+  }
+]
